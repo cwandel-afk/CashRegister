@@ -1,0 +1,16 @@
+C:\Users\cwand\source\repos\Truefit_CashRegister\Truefit_CashRegister\bin\Debug\net8.0\Data\sampleInput.txt
+C:\Users\cwand\source\repos\Truefit_CashRegister\Truefit_CashRegister\bin\Debug\net8.0\Truefit_CashRegister.exe
+C:\Users\cwand\source\repos\Truefit_CashRegister\Truefit_CashRegister\bin\Debug\net8.0\Truefit_CashRegister.deps.json
+C:\Users\cwand\source\repos\Truefit_CashRegister\Truefit_CashRegister\bin\Debug\net8.0\Truefit_CashRegister.runtimeconfig.json
+C:\Users\cwand\source\repos\Truefit_CashRegister\Truefit_CashRegister\bin\Debug\net8.0\Truefit_CashRegister.dll
+C:\Users\cwand\source\repos\Truefit_CashRegister\Truefit_CashRegister\bin\Debug\net8.0\Truefit_CashRegister.pdb
+C:\Users\cwand\source\repos\Truefit_CashRegister\Truefit_CashRegister\obj\Debug\net8.0\Truefit_CashRegister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cwand\source\repos\Truefit_CashRegister\Truefit_CashRegister\obj\Debug\net8.0\Truefit_CashRegister.AssemblyInfoInputs.cache
+C:\Users\cwand\source\repos\Truefit_CashRegister\Truefit_CashRegister\obj\Debug\net8.0\Truefit_CashRegister.AssemblyInfo.cs
+C:\Users\cwand\source\repos\Truefit_CashRegister\Truefit_CashRegister\obj\Debug\net8.0\Truefit_CashRegister.csproj.CoreCompileInputs.cache
+C:\Users\cwand\source\repos\Truefit_CashRegister\Truefit_CashRegister\obj\Debug\net8.0\Truefit_CashRegister.dll
+C:\Users\cwand\source\repos\Truefit_CashRegister\Truefit_CashRegister\obj\Debug\net8.0\refint\Truefit_CashRegister.dll
+C:\Users\cwand\source\repos\Truefit_CashRegister\Truefit_CashRegister\obj\Debug\net8.0\Truefit_CashRegister.pdb
+C:\Users\cwand\source\repos\Truefit_CashRegister\Truefit_CashRegister\obj\Debug\net8.0\Truefit_CashRegister.genruntimeconfig.cache
+C:\Users\cwand\source\repos\Truefit_CashRegister\Truefit_CashRegister\obj\Debug\net8.0\ref\Truefit_CashRegister.dll
+C:\Users\cwand\source\repos\Truefit_CashRegister\Truefit_CashRegister\bin\Debug\net8.0\Data\sampleInput2.txt

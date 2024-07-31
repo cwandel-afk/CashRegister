@@ -1,0 +1,43 @@
+3 quarters,1 dime,3 pennies
+3 pennies
+1 dollar,4 dimes,4 nickles,7 pennies
+2 dollars,2 dimes,2 pennies
+4 dollars,2 dimes,2 pennies
+3 dollars,1 quarter,1 nickle,3 pennies
+1 dollar,2 quarters,2 pennies
+2 dollars,2 dimes,2 pennies
+2 dollars,1 quarter,1 dime,1 nickle,4 pennies
+1 dollar,2 quarters,1 nickle
+3 dollars,1 dime,1 penny
+3 dollars,1 quarter,1 dime,1 nickle,4 pennies
+3 dollars,1 quarter,1 dime,3 pennies
+1 dollar,1 quarter,1 dime,1 nickle,4 pennies
+2 dollars,2 quarters,1 nickle,1 penny
+1 dollar,3 quarters,4 dimes,5 nickles,4 pennies
+1 dollar,2 quarters,2 dimes,3 nickles,4 pennies
+2 dollars,2 dimes,2 pennies
+2 dollars,1 penny
+1 dollar,1 quarter,1 nickle,3 pennies
+1 dollar,1 quarter,1 dime,1 nickle,4 pennies
+1 quarter,1 nickle,4 pennies
+2 dollars,2 dimes,2 nickles,3 pennies
+1 dollar,1 dime,1 penny
+2 dollars,1 quarter,1 nickle,3 pennies
+1 dollar,2 dimes,2 pennies
+2 dollars,1 quarter,1 dime,1 nickle,4 pennies
+2 dollars,1 quarter,1 nickle,3 pennies
+1 dollar,2 dimes,2 pennies
+3 dollars,1 quarter,1 dime,1 nickle,4 pennies
+2 dollars,1 quarter,1 nickle,3 pennies
+1 dollar,1 quarter,3 nickles,4 pennies
+2 dollars,2 dimes,2 pennies
+2 dollars,1 quarter,1 nickle,3 pennies
+1 dollar,1 quarter,2 dimes,2 nickles,1 penny
+2 dollars,1 quarter,1 nickle,3 pennies
+2 dollars,2 dimes,2 pennies
+2 quarters,1 dime,1 nickle,2 pennies
+1 dollar,1 quarter,1 nickle,3 pennies
+2 dollars,1 quarter,1 dime,1 nickle,4 pennies
+3 dollars,2 dimes,2 pennies
+2 quarters,2 dimes,1 nickle,3 pennies
+1 dollar,2 dimes,2 pennies
